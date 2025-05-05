@@ -18,7 +18,7 @@ O arquivo contém informações relativas ao monitoramento da sala de criação 
 
 **massas_tenebrio_molitor_14-03-2025.csv**
 
-O arquivo possui as massas de 209 indivíduos de T. molitor aleatoriamente coletados para monitoramento da massa, tempo de pupa, taxas de canibalismo e consumo de substrato.
+O arquivo possui as massas (mg) de 209 indivíduos de T. molitor aleatoriamente coletados para monitoramento da massa, tempo de pupa, taxas de canibalismo e consumo de substrato.
 
 ______
 
